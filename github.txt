@@ -1,0 +1,144 @@
+ <!DOCTYPE html>
+
+
+<html>
+    
+<head>
+    <title>UZB N1</title>
+    <img src="UZB.jpg" alt="photo">
+    
+    </head> 
+   
+    
+<body>
+    
+    
+    <h1 style="text-align: center;
+     background-color:blue;
+      color: brown;
+       padding: 30px;">O'ZBEKISTON RESPUBLIKASI DAVLAT BAYROG'I</h1>
+   
+    
+    <p>
+        
+        <strong> "O'zbekiston Respublikasi Davlat bayrog'i to'g'risida"gi qonun 1991 yil 
+         18-noyabrda O'zbekiston Respublikasi Oliy Kengashining navbatdan tashqari 
+         o'tkazilgan VII sessiyasida qabul qilingan</strong>.  Davlat bayrog'i va uning ramzi
+         bugungi O'zbekiston sarhadida qadimda mavjud bo'lgan davlatlar bilan tarixan
+         bog'liqligini anglatadi hamda respublikaning milliy-madaniy an'analarini o'zida
+         mujassamlashtiradi.   Bayroqdagi moviy rang tiriklik mazmuni aks etgan mangu osmon
+        va obihayot ramzi. Timsollar tilida bu - yaxshilikni, donishmandlikni, halollikni,
+        shon-shuhrat va sadoqatni bildiradi. Binobarin, Amir Temur davlati bayrog'ining rangi
+         ham moviy rangda edi. <a href="https://goole.com"target="blank">  GOOGLE</a>  Bayroqdagi oq rang - muqaddas 
+         tinchlik ramzi bo'lib, u kun
+        charog'onligi va koinot yoritkichlari bilan uyg'unlashib ketadi. Oq rang – poklik,
+               beg'uborlik, soflikni, orzu va hayollar tozaligi, ichki go'zallikka intilishning timsoli.
+                  Yashil rang – tabiatning yangilanish ramzi. U ko'pgina xalqlarda navqironlik, umid va 
+                 shodumonlik timsoli hisoblanadi.   Qizil chiziqlar – vujudimizda jo'shib oqayotgan hayotiy
+                  qudrat irmoqlarini anglatadi.   Navqiron yarim oy tasviri bizning tarixiy an'analarimiz
+                   bilan bog'liq. Ayni paytda u qo'lga kiritilgan mustaqilligimiz ramzi ham. 
+                     Yulduzlar barcha uchun ruhoniy, ilohiy timsol sanalgan. O'zbekiston Respublikasi
+                    Davlat bayrog'idagi 12 yulduz tasviri ham tarixiy an'analarimiz, qadimgi yilnomamizga 
+                    bevosita aloqador. Bizning o'n ikki yulduzga bo'lgan e'tiborimiz O'zbekiston sarhadidagi 
+                    qadimgi davlatlar ilmiy tafakkurida nujum ilmi taraqqiy etganligi bilan ham 
+                    izohlanadi.   Davlat bayrog'imizdagi 12 yulduz tasvirini o'zbek xalqi madaniyatining
+                qadimiyligi, uning komillikka, o'z tuprog'ida saodatga intilishi ramzi sifatida tushunish lozim. </p>
+
+<!--  ul-unordered list li-list item  -->
+
+
+
+
+
+<p> VILOYATLAR</p>
+
+<ul> 
+   
+<li>QASHQADARYO</li>
+<li>SURXONDARYO</li>
+<li>TOSHKENT</li>
+<li>BUXORO</li>
+
+</ul>
+
+<table>
+
+<thead>
+   <tr>
+<th>Neme</th>
+<th>Email</th>
+<th>Phone Number</th>
+   </tr>
+</thead>
+<tbody>
+<tr>
+<td>Muslimbek</td>
+<td>muslimbeksheraliyev555@gmail.com</td>
+<td>25 905 88 51</td>
+</tr>
+</tbody>
+
+</table>
+
+<br>
+<hr>
+
+<!--break -->
+
+
+<form >
+<label for="fname">
+    First Name:
+<input type="text" placeholder="first Name" 
+id="fname" name="fname"/></label>
+
+<label for="age">
+    Age:
+<input type="number" placeholder="Your Age " 
+id="age" name="age"/>
+</label>
+<br> <br>
+<label for="password">
+Password:
+<input type="password" 
+placeholder="Your password " 
+id="password" name="password"/>
+</label>
+
+<label for="isMarrigd">
+    Is Marrigd:
+    <input type="checkbox" 
+    id="isMarrigd" name="isMarrigd"/>
+    </label>
+
+<br>
+
+    <label for="gender">
+      Gender:
+        <input type="radio" 
+        id="isMarrigd" name="isMarrigd"/>
+        <input type="radio" 
+        id="isMarrigd" name="isMarrigd"/>
+        </label>
+
+
+        <label for="country">
+            <select name="country" id="country">
+                <option value="us">USA</option>
+                <option value="uk">UK</option>
+                <option value="uz">Uzbekistan</option>
+                </select>
+            
+        </label>
+</form>
+<p style="text-align: center;
+background-color:black;color:brown;
+padding: 20px;">CopyRigth CityTech Tashkent</p>
+
+
+    </body>
+    
+    
+    
+    
+</html>
